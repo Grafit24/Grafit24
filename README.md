@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on hackotons and competions
 - 📫 How to reach me:
-    - telegram: https://t.me/GRAFIT23
+    - telegram: [@grafit23](https://t.me/grafit23)
     - email: zelnovskiygoodman454@gmail.com
 
 <!---
